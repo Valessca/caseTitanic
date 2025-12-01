@@ -1,0 +1,15 @@
+# Dados grandes e artefatos
+outputs/
+models/
+*.png
+*.csv
+*.json
+
+# Ambientes
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+
